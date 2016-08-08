@@ -1,0 +1,4 @@
+d:\users\63010\documents\visual studio 2015\Projects\JpgExifWriter\bin\Release\JpgExifWriter.dll
+d:\users\63010\documents\visual studio 2015\Projects\JpgExifWriter\bin\Release\JpgExifWriter.pdb
+d:\users\63010\documents\visual studio 2015\Projects\JpgExifWriter\obj\Release\JpgExifWriter.dll
+d:\users\63010\documents\visual studio 2015\Projects\JpgExifWriter\obj\Release\JpgExifWriter.pdb
