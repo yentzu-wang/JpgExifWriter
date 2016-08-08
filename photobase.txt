@@ -1,9 +1,0 @@
-http://photobase.ceci.com.tw
-
-網站建置(aspx, google map api, javascript + jquery, Plupload, jqgrid)
-web service(.asmx)
-檔案同步排程程式
-MIS資料串接同步程式
-
-特色:
-圖片寫入exif資訊,GPS資訊
